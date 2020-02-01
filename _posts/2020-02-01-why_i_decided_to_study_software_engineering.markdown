@@ -1,18 +1,12 @@
 ---
 layout: post
 title:      "Why I decided to study Software Engineering"
-date:       2020-02-01 07:35:50 +0000
+date:       2020-02-01 02:35:51 -0500
 permalink:  why_i_decided_to_study_software_engineering
 ---
 
 
-Over the course of the last few years, my interactions and intermittent collaboration with software engineers have inspired me to pursue programming studies.
-
-
-My career roadmap has never been neat nor direct. In fact, it's been a little all over the place. Let's start from the beginning: *when I was 8, I wanted to be a dolphin trainer*. 
-
-
-My path has drastically pivoted from the dolphin trainer vision I once revered. Fast forward to 2016: I was a Biology /  Pre-med major at Loyola Chicago (after changing my major 5 times). As my graduation approached, I realized that although I excelled in the sciences, medicine wasn’t my passion, and I ultimately decided not to pursue a career in medicine.
+Over the course of the last few years, my interactions and intermittent collaboration with software engineers have inspired me to pursue programming studies. My career roadmap has never been neat nor direct. In fact, it's been a little all over the place. Let's start from the beginning: *when I was 8, I wanted to be a dolphin trainer*. My path has drastically pivoted from the dolphin trainer vision I once revered. Fast forward to 2016: I was a Biology /  Pre-med major at Loyola Chicago (after changing my major 5 times). As my graduation approached, I realized that although I excelled in the sciences, medicine wasn’t my passion, and I ultimately decided not to pursue a career in medicine.
 
 
 After receiving my undergraduate degree, I explored the non-profit realm in both marketing and project management roles. I wanted to save the world (don't we all?). While in project management, I had my first experience working with programmers to develop a website. I took on somewhat of a Product Manager role (although at the time I didn't know what a PM was), using marketing insights to improve upon our website and volunteer processes. This was the first time in my career when technology - programming, specifically - piqued my interest. 
