@@ -1,11 +1,11 @@
 # Site settings
 author: Beth Ruff
-title: 
+title: How To Become a Software Engineer in Ten Months
 header-img: img/home-bg.png
 email: beth.ruff2@gmail.com
 copyright_name: Beth Ruff
 description: > # this means to ignore newlines until "baseurl:"
-  
+  The Ultimate Guide
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  beth-ruff
