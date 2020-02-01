@@ -9,7 +9,7 @@ permalink:  why_i_decided_to_study_software_engineering
 Over the course of the last few years, my interactions and intermittent collaboration with software engineers have inspired me to pursue programming studies. 
 
 
-My career roadmap has never been neat nor direct. In fact, it's been a little all over the place. Let's start from the beginning: *when I was 8, I wanted to be a dolphin trainer*. 
+My career roadmap has never been neat nor direct. In fact, it's been a little all over the place. Let's start from the beginning: *when I was 8, i wanted to be a dolphin trainer.*
 
 
 My path has drastically pivoted from the dolphin trainer vision I once revered. Fast forward to 2016: I was a Biology /  Pre-med major at Loyola Chicago (after changing my major 5 times). As my graduation approached, I realized that although I excelled in the sciences, medicine wasn’t my passion, and I ultimately decided not to pursue a career in medicine.
