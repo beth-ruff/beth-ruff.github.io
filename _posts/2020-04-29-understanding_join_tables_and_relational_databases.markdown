@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Understanding Join Tables and Relational Databases"
-date:       2020-04-29 21:31:49 +0000
+date:       2020-04-29 17:31:50 -0400
 permalink:  understanding_join_tables_and_relational_databases
 ---
 
@@ -43,3 +43,7 @@ end
 ```
 
 Join tables make these complex relationships and complicated database queries possible! The biggest takeaway of this week for me is this: *when it doubt, draw it out.*
+
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmodernfarmer.com%2F2017%2F12%2F6-facts-sheep-might-not-know%2F&psig=AOvVaw3gsfbRaWuxDEnZUyHKLKnJ&ust=1588282459812000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCHrLDLjukCFQAAAAAdAAAAABAD)
+
+
