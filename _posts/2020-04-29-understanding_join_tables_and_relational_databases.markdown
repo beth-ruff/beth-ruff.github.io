@@ -12,13 +12,13 @@ I think part of the reason I enjoy learning about SQL and relational databases i
 
 When building databases, the "belongs_to/has_many" relationship is established with the use of foreign keys. When building a table, the child entity (i.e. the one that belongs to another entity) has a foreign key column. Here's an example:
 
-![](https://i.imgur.com/KZ09AFP.jpg)
+![](https://i.imgur.com/7698X3H.png)
 
 As you can see above, Cujo and Charlie both have an owner_id of 1, and therefore belong to Beth. Luna has an owner_id of 2, belonging to Steven. And finally, Dakota has an owner_id of 3 and belongs to Ruth.
 
 So how do we go about storing data consisting of many-to-many relationships? This is where things get fun, and a little complex (IMHO). Enter: *join tables*. Join tables allow you to store data with many-to-many associations by having a field of common data from multiple tables (typically foreign keys). A great example of this is one of the labs in our Learn.co curriculum, SQL Library Lab. In this lab, I had to create a table for the following: Characters, Books, Series, Authors, and Sub-Genres. In order to create complex SQL queries and create proper associations, I had to create a join table. Before getting started, I went ahead and physically illustrated the tables I was building and their relationships with one another.
 
-![](https://imgur.com/7698X3H)
+![](https://i.imgur.com/KZ09AFP.jpg)
 
 As you can see, I built the join table to connect both books and characters, as books have many characters and characters have many books. The join table is called character_books and needs two foreign key columns, like so:
 
