@@ -12,7 +12,7 @@ I think part of the reason I enjoy learning about SQL and relational databases i
 
 When building databases, the "belongs_to/has_many" relationship is established with the use of foreign keys. When building a table, the child entity (i.e. the one that belongs to another entity) has a foreign key column. Here's an example:
 
-![](https://imgur.com/KZ09AFP)
+![](https://i.imgur.com/KZ09AFP.jpg)
 
 As you can see above, Cujo and Charlie both have an owner_id of 1, and therefore belong to Beth. Luna has an owner_id of 2, belonging to Steven. And finally, Dakota has an owner_id of 3 and belongs to Ruth.
 
