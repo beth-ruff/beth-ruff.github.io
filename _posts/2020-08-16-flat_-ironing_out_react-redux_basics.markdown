@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "[Flat]-Ironing out React-Redux Basics"
-date:       2020-08-17 00:09:07 +0000
+title:      "[Flat]Ironing out React-Redux Basics"
+date:       2020-08-16 20:09:08 -0400
 permalink:  flat_-ironing_out_react-redux_basics
 ---
 
